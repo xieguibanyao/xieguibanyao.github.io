@@ -70,6 +70,7 @@ body {
     -ms-flex: 70%; /* IE10 */
     flex: 70%;
     background：URL（2.gif);
+    padding: 20px;
 }
  
 /* 测试图片 */
