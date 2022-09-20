@@ -69,7 +69,7 @@ body {
 .main {   
     -ms-flex: 70%; /* IE10 */
     flex: 70%;
-    background：URL（2.gif);
+    background：url(2.gif);
     padding: 20px;
 }
  
