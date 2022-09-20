@@ -69,7 +69,7 @@ body {
 .main {   
     -ms-flex: 70%; /* IE10 */
     flex: 70%;
-    background-color:  background：＃FF0000 URL（2.gif);
+    background：URL（2.gif);
 }
  
 /* 测试图片 */
