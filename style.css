@@ -61,7 +61,7 @@ body {
 .side {
     -ms-flex: 30%; /* IE10 */
     flex: 30%;
-    background-color: #c7e8e063;
+    background-color: #eaf7f463;
     padding: 20px;
 }
  
@@ -69,7 +69,7 @@ body {
 .main {   
     -ms-flex: 70%; /* IE10 */
     flex: 70%;
-    background: url(3.jpg);
+    background: #e9dcdc99;
     padding: 20px;
 }
  
