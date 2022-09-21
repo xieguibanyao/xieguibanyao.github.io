@@ -12,7 +12,7 @@ body {
 .header {
     padding: 80px;
     text-align: center;
-    background: url(bg.jpg);
+    background:  url("2.gif");
     color: white;
 }
  
@@ -61,7 +61,7 @@ body {
 .side {
     -ms-flex: 30%; /* IE10 */
     flex: 30%;
-    background-color: #f1f1f1;
+    background-color: #c7e8e063;
     padding: 20px;
 }
  
@@ -69,7 +69,7 @@ body {
 .main {   
     -ms-flex: 70%; /* IE10 */
     flex: 70%;
-    background: url("2.gif") no-repeat;
+    background: url(3.jpg);
     padding: 20px;
 }
  
