@@ -112,20 +112,21 @@ body {
     background: #ddd;
 }
 
+
 /*微信二维码*/
 .weixin{
-position:relative;
+position:;
 }
 .weixin::after{
 content: url(weixin.jpg);
 position: absolute;
-right: -28px;
-top: -135px;
+right: 600px;
+top: 400px;
 z-index: 999;
 120px;
-height: 120px;
-border: 5px solid #0095ba;
-border-radius: 4px;
+height: autopx;
+border: 5px solid #4ba6bd;
+border-radius: 5px;
 transform-origin: top right;
 transform: scale(0);
 opacity: 0;
@@ -138,6 +139,7 @@ transition: all .4s ease-in-out;
 transform:scale(1);
 opacity: 1;
 }
+ 
  
 /* 响应式布局 - 在屏幕设备宽度尺寸小于 700px 时, 让两栏上下堆叠显示 */
 @media screen and (max-width: 700px) {
