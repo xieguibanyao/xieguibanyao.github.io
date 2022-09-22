@@ -10,7 +10,7 @@ body {
  
 /* 标题 */
 .header {
-    padding: 80px;
+    padding: 240px;
     text-align: center;
     background:  url("2.gif");
     color: white;
@@ -18,7 +18,7 @@ body {
  
 /* 标题字体加大 */
 .header h1 {
-    font-size: 40px;
+    font-size:80px;
 }
  
 /* 导航 */
@@ -107,7 +107,7 @@ body {
  
 /* 底部 */
 .footer {
-    padding: 20px;
+    padding: 13px;
     text-align: center;
     background: #ddd;
 }
