@@ -10,7 +10,7 @@ body {
  
 /* 标题 */
 .header {
-    padding: 80px;
+    padding:250px;
     text-align: center;
     background:  url("2.gif");
     color: white;
@@ -18,7 +18,7 @@ body {
  
 /* 标题字体加大 */
 .header h1 {
-    font-size: 40px;
+    font-size: 70px;
 }
  
 /* 导航 */
@@ -107,7 +107,7 @@ body {
  
 /* 底部 */
 .footer {
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     background: #ddd;
 }
@@ -120,8 +120,8 @@ position:;
 .weixin::after{
 content: url(weixin.jpg);
 position: absolute;
-right: 600px;
-top: 800px;
+right: 700px;
+top: 680px;
 z-index: 999;
 120px;
 height: autopx;
